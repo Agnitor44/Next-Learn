@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,AAAA,KAAK,CAAC;EACL,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,MAAM,EAAE,EAAE;CACb",
+    "sources": [
+        "lay.module.scss"
+    ],
+    "names": [],
+    "file": "lay.module.css"
+}
